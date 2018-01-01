@@ -14,7 +14,7 @@ var sumValue = function (a, b) {
 };
 var result = sumValue(1, 2);
 console.log(result);
-var Digimon = /** @class */ (function () {
+var Digimon = (function () {
     function Digimon(id, name) {
         this.id = id;
         this.name = name;
