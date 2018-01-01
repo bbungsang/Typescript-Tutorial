@@ -1,4 +1,4 @@
-var Pocketmon = /** @class */ (function () {
+var Pocketmon = (function () {
     function Pocketmon(before, after) {
         this.before = before;
         this.after = after;

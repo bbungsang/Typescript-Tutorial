@@ -12,5 +12,5 @@ class Pocketmon {
     }
 }
 
-var pocketmon = new Pocketmon('피카츄', '라이츄');
+const pocketmon = new Pocketmon('피카츄', '라이츄');
 pocketmon.evolution();
